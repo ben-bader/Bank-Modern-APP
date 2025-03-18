@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Modern Bank Landing page UI/UX Design Using  React + Vite And TailwindCSS
 
 
@@ -56,6 +55,6 @@ Feel free to contribute by submitting pull requests or opening issues for bug fi
 ## 📜 License  
 
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute it.  
->>>>>>> 2937f98 (Updated README with project description and added an image)
+
 
 
