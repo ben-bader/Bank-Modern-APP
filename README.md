@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 # Modern Bank Landing page UI/UX Design Using  React + Vite And TailwindCSS
 
 
 
-=======
 This project is a **modern, responsive, and user-friendly** bank landing page built using **React, Vite, and TailwindCSS**. The design focuses on **clean UI, smooth user experience, and accessibility** while ensuring fast performance with Vite’s optimized development workflow.  
 
 ## ✨ Features  
@@ -56,6 +55,6 @@ Feel free to contribute by submitting pull requests or opening issues for bug fi
 ## 📜 License  
 
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute it.  
->>>>>>> 2937f98 (Updated README with project description and added an image)
+
 
 
