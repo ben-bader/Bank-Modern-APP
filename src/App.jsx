@@ -1,3 +1,4 @@
+import Navbar from "./components/NavBar";
 import {
   Billing,
   CardDeal,
@@ -8,7 +9,6 @@ import {
   Footer,
   Testimonials,
   Hero,
-  Navbar,
 } from "./components/import";
 import styles from "./style";
 function App() {
