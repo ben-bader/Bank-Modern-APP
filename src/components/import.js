@@ -11,7 +11,7 @@ import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 
 export {
- Navbar,
+  Navbar,
   Billing,
   CardDeal,
   Business,
