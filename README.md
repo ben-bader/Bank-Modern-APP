@@ -2,7 +2,7 @@
 
 
 
-=======
+
 This project is a **modern, responsive, and user-friendly** bank landing page built using **React, Vite, and TailwindCSS**. The design focuses on **clean UI, smooth user experience, and accessibility** while ensuring fast performance with Vite’s optimized development workflow.  
 
 ## ✨ Features  

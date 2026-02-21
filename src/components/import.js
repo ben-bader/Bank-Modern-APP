@@ -1,5 +1,5 @@
 
-import Navbar from "./navBar";
+import Navbar from "./NavBar";
 import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Business from "./Business";
