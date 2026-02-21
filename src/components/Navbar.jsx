@@ -3,7 +3,7 @@ import { logo, menu ,close} from '../assets/import';
 import { navLinks } from '.';
 import { useState } from 'react';
 
-const Navbar = () => {
+export default function Navbar(){
    const  [toggle,setToggle] = useState(false)
   return (
     <nav className="w-full flex py-6 justify-between  
@@ -54,4 +54,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+
